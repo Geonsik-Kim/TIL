@@ -10,3 +10,4 @@
 -   [정적 타입 언어와 동적 타입 언어](https://kim-geonsik.notion.site/ef4c34f098814e4cb15431eb91d8d707)
 -   [원시 타입과 객체 타입의 비교](https://kim-geonsik.notion.site/de8cebbd306c41dcb31a48f59cae9e2b)
 -   [객체 리터럴](https://kim-geonsik.notion.site/77219d13bf644805a5cc7f9bba0bb26b)
+-   [ES6에서 추가된 객체 리터럴의 확장 기능](https://kim-geonsik.notion.site/ES6-75cb3e343abe416fafe955c0c49dda1e)
