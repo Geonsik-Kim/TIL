@@ -12,3 +12,4 @@
 -   [객체 리터럴](https://kim-geonsik.notion.site/77219d13bf644805a5cc7f9bba0bb26b)
 -   [ES6에서 추가된 객체 리터럴의 확장 기능](https://kim-geonsik.notion.site/ES6-75cb3e343abe416fafe955c0c49dda1e)
 -   [변수](https://kim-geonsik.notion.site/cdd938915f5a4955a048ce25730948f0)
+-   [변수 선언의 실행 시점과 변수 호이스팅](https://kim-geonsik.notion.site/925f36931936446f893168a60beb1fad)
