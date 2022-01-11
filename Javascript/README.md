@@ -11,3 +11,4 @@
 -   [원시 타입과 객체 타입의 비교](https://kim-geonsik.notion.site/de8cebbd306c41dcb31a48f59cae9e2b)
 -   [객체 리터럴](https://kim-geonsik.notion.site/77219d13bf644805a5cc7f9bba0bb26b)
 -   [ES6에서 추가된 객체 리터럴의 확장 기능](https://kim-geonsik.notion.site/ES6-75cb3e343abe416fafe955c0c49dda1e)
+-   [변수](https://kim-geonsik.notion.site/cdd938915f5a4955a048ce25730948f0)
