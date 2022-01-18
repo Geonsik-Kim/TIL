@@ -15,3 +15,4 @@
 -   [변수 선언의 실행 시점과 변수 호이스팅](https://kim-geonsik.notion.site/925f36931936446f893168a60beb1fad)
 -   [식별자 네이밍 규칙](https://kim-geonsik.notion.site/6ca93557c1cd4da6b30b5101c1abdadc)
 -   [타입 변환 (암묵적 타입 변환, 명시적 타입 변환)](https://kim-geonsik.notion.site/997856a0e3014605a584e101f9d9d48f)
+-   [함수 리터럴](https://kim-geonsik.notion.site/2b1db261cc8a4e2eaa3ff1eaa6744fb0)
