@@ -17,3 +17,4 @@
 -   [타입 변환 (암묵적 타입 변환, 명시적 타입 변환)](https://kim-geonsik.notion.site/997856a0e3014605a584e101f9d9d48f)
 -   [함수 리터럴](https://kim-geonsik.notion.site/2b1db261cc8a4e2eaa3ff1eaa6744fb0)
 -   [함수를 정의하는 방법](https://kim-geonsik.notion.site/9565ff02693b41e591221305484aaf9d)
+-   [함수 호이스팅](https://kim-geonsik.notion.site/1f757ea26adc40ef8e97d5cb6bb4b793)
