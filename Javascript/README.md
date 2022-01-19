@@ -18,3 +18,4 @@
 -   [함수 리터럴](https://kim-geonsik.notion.site/2b1db261cc8a4e2eaa3ff1eaa6744fb0)
 -   [함수를 정의하는 방법](https://kim-geonsik.notion.site/9565ff02693b41e591221305484aaf9d)
 -   [함수 호이스팅](https://kim-geonsik.notion.site/1f757ea26adc40ef8e97d5cb6bb4b793)
+-   [화살표 함수](https://kim-geonsik.notion.site/c1adf19b3336493db76d5dbac2d900dc)
