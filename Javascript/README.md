@@ -19,3 +19,4 @@
 -   [함수를 정의하는 방법](https://kim-geonsik.notion.site/9565ff02693b41e591221305484aaf9d)
 -   [함수 호이스팅](https://kim-geonsik.notion.site/1f757ea26adc40ef8e97d5cb6bb4b793)
 -   [화살표 함수](https://kim-geonsik.notion.site/c1adf19b3336493db76d5dbac2d900dc)
+-   [스코프](https://kim-geonsik.notion.site/41f937d0f2d34152a96067b78ab5f295)
