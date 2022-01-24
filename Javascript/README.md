@@ -23,3 +23,4 @@
 -   [스코프 체인](https://kim-geonsik.notion.site/8598a5fc649e4738a0cde1c4a5fc6d28)
 -   [전역 변수의 문제점](https://kim-geonsik.notion.site/f8869e353bcc4510bbf352acf5abbeab)
 -   [함수 호출](https://kim-geonsik.notion.site/8b03f8c74f2b4d69beb9bf29cfbfd5c5)
+-   [참조에 의한 전달과 외부 상태의 변경](https://kim-geonsik.notion.site/f83be159dce84d21a8f8f1153d162660)
