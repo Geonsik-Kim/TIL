@@ -24,3 +24,4 @@
 -   [전역 변수의 문제점](https://kim-geonsik.notion.site/f8869e353bcc4510bbf352acf5abbeab)
 -   [함수 호출](https://kim-geonsik.notion.site/8b03f8c74f2b4d69beb9bf29cfbfd5c5)
 -   [참조에 의한 전달과 외부 상태의 변경](https://kim-geonsik.notion.site/f83be159dce84d21a8f8f1153d162660)
+-   [다양한 형태의 함수](https://kim-geonsik.notion.site/e3e972bbac304c748b2484e003474421)
