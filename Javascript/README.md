@@ -26,3 +26,4 @@
 -   [참조에 의한 전달과 외부 상태의 변경](https://kim-geonsik.notion.site/f83be159dce84d21a8f8f1153d162660)
 -   [다양한 형태의 함수](https://kim-geonsik.notion.site/e3e972bbac304c748b2484e003474421)
 -   [let, const 키워드와 블록 레벨 스코프](https://kim-geonsik.notion.site/let-const-07d7488c73814741a5effc3ab589fcdd)
+-   [자바스크립트 객체의 분류](https://kim-geonsik.notion.site/4f04e0aee1c34d6ebcda652319fe38c6)
