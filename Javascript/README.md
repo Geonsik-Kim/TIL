@@ -28,3 +28,4 @@
 -   [let, const 키워드와 블록 레벨 스코프](https://kim-geonsik.notion.site/let-const-07d7488c73814741a5effc3ab589fcdd)
 -   [자바스크립트 객체의 분류](https://kim-geonsik.notion.site/4f04e0aee1c34d6ebcda652319fe38c6)
 -   [표준 빌트인 객체](https://kim-geonsik.notion.site/d28dd4c8c19747e39ebcaa32407e44ef)
+-   [원시값과 래퍼 객체](https://kim-geonsik.notion.site/aad75af76d8e4f8285ced6839bf29dcc)
