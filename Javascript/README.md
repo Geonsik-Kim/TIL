@@ -30,3 +30,4 @@
 -   [표준 빌트인 객체](https://kim-geonsik.notion.site/d28dd4c8c19747e39ebcaa32407e44ef)
 -   [원시값과 래퍼 객체](https://kim-geonsik.notion.site/aad75af76d8e4f8285ced6839bf29dcc)
 -   [전역 객체](https://kim-geonsik.notion.site/3ffd5af517074e3092090e8e534e9a0f)
+-   [this](https://kim-geonsik.notion.site/this-b0070c382f8f466eb8342f9b72b74aba)
