@@ -32,4 +32,3 @@
 -   [전역 객체](https://kim-geonsik.notion.site/3ffd5af517074e3092090e8e534e9a0f)
 -   [this](https://kim-geonsik.notion.site/this-b0070c382f8f466eb8342f9b72b74aba)
 -   [함수 호출 방식과 this 바인딩](https://kim-geonsik.notion.site/this-dda482043cab43f3a7c8f80f7a1d689e)
--   [실행 컨텍스트](https://kim-geonsik.notion.site/76aa10e57e3e40f984fdb09ee6e25d7d) 2022-02-09 진행 중
