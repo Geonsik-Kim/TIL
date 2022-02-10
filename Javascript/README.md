@@ -36,3 +36,4 @@
 -   [소스코드의 평가와 실행](https://kim-geonsik.notion.site/5378131194a7475bbeff2a66ab0a8673)
 -   [실행 컨텍스트의 역할](https://kim-geonsik.notion.site/160cd73b63354ebd9a420c147776ae14)
 -   [실행 컨텍스트 스택](https://kim-geonsik.notion.site/a635784d76d04a24b4afa346f69ea376)
+-   [렉시컬 환경](https://kim-geonsik.notion.site/778705d4e2844b30ac6c6bff51491081)
