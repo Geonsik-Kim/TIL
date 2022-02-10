@@ -34,3 +34,4 @@
 -   [함수 호출 방식과 this 바인딩](https://kim-geonsik.notion.site/this-dda482043cab43f3a7c8f80f7a1d689e)
 -   [소스코드의 타입](https://kim-geonsik.notion.site/76aa10e57e3e40f984fdb09ee6e25d7d)
 -   [소스코드의 평가와 실행](https://kim-geonsik.notion.site/5378131194a7475bbeff2a66ab0a8673)
+-   [실행 컨텍스트의 역할](https://kim-geonsik.notion.site/160cd73b63354ebd9a420c147776ae14)
