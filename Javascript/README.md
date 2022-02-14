@@ -39,3 +39,5 @@
 -   [렉시컬 환경](https://kim-geonsik.notion.site/778705d4e2844b30ac6c6bff51491081)
 -   [실행 컨텍스트의 생성과 식별자 검색 과정](https://kim-geonsik.notion.site/baee5ac676514eceb288a5c7d8f1175e)
 -   [실행 컨텍스트와 블록 레벨 스코프](https://kim-geonsik.notion.site/9e5b55e005c24477ae676199d3a40988)
+-   [클로저](https://kim-geonsik.notion.site/a5b336da0ea249de90e5f8fdefa12c84)
+
