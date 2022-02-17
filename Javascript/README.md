@@ -41,4 +41,5 @@
 -   [실행 컨텍스트와 블록 레벨 스코프](https://kim-geonsik.notion.site/9e5b55e005c24477ae676199d3a40988)
 -   [클로저](https://kim-geonsik.notion.site/a5b336da0ea249de90e5f8fdefa12c84)
 -   [클로저의 활용](https://kim-geonsik.notion.site/f16d34fc9211476aaffd390435911d42)
+-   [Set](https://kim-geonsik.notion.site/Set-da3f903bfbe4460f86ab8bb1e1c2b683)
 
