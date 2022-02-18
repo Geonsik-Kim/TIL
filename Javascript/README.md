@@ -42,4 +42,4 @@
 -   [클로저](https://kim-geonsik.notion.site/a5b336da0ea249de90e5f8fdefa12c84)
 -   [클로저의 활용](https://kim-geonsik.notion.site/f16d34fc9211476aaffd390435911d42)
 -   [Set](https://kim-geonsik.notion.site/Set-da3f903bfbe4460f86ab8bb1e1c2b683)
-
+-   [Set으로 구현한 집합 연산](https://kim-geonsik.notion.site/Set-41e74cd5a082437ebcd37d5523da4d27)
