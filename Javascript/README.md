@@ -46,3 +46,4 @@
 -   [Map](https://kim-geonsik.notion.site/Map-fc9b68a5b1a6401b8251ea9f2c29795b)
 -   [스프레드 문법](https://kim-geonsik.notion.site/cd5a33429ed1412e8767f1ca9255ffbb)
 -   [동기 처리와 비동기 처리](https://kim-geonsik.notion.site/a575719d1a8e4b3094f2562348560c3e)
+-   [이벤트 루프와 태스크 큐](https://kim-geonsik.notion.site/f7b238ae90174a61ab2c4e3fd0b3ee3a)
