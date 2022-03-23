@@ -50,3 +50,4 @@
 -   [호출 스케줄링](https://kim-geonsik.notion.site/63f81e98392949f6b134cf29536e976c)
 -   [타이머 함수](https://kim-geonsik.notion.site/7f6a14ea99e342e986f904711c7da213)
 -   [디바운스와 스로틀](https://kim-geonsik.notion.site/b43c5c3bb4d84bfd8da2f1b80e767898)
+-   [Ajax](https://kim-geonsik.notion.site/Ajax-e544fcc32a254314aa927e8a95d398d9)
