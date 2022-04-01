@@ -53,3 +53,4 @@
 -   [Ajax](https://kim-geonsik.notion.site/Ajax-e544fcc32a254314aa927e8a95d398d9)
 -   [JSON](https://kim-geonsik.notion.site/JSON-94e8b036e0574501af747770ae9b0de5)
 -   [XMLHttpRequest](https://kim-geonsik.notion.site/XMLHttpRequest-ce535a80d6d942038d8b12d8124ea3ac)
+-   [이터러블](https://kim-geonsik.notion.site/c9d0e9031d6d498f8f2a88d0ee5097f9)
