@@ -56,3 +56,4 @@
 -   [이터러블](https://kim-geonsik.notion.site/c9d0e9031d6d498f8f2a88d0ee5097f9) (Update 22.04.08)
 -   [빌트인 이터러블](https://kim-geonsik.notion.site/6cabd5520e2f4a67b4314b1a07c3951e)
 -   [이터러블과 유사 배열 객체](https://kim-geonsik.notion.site/f065ead1b5044774aa9ac81f39129bec)
+-   [이터레이션 프로토콜의 중요성](https://kim-geonsik.notion.site/535501e556e84ca18cb2388ccfd18440)
