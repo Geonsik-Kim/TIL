@@ -58,3 +58,4 @@
 -   [이터러블과 유사 배열 객체](https://kim-geonsik.notion.site/f065ead1b5044774aa9ac81f39129bec)
 -   [이터레이션 프로토콜의 중요성](https://kim-geonsik.notion.site/535501e556e84ca18cb2388ccfd18440)
 -   [REST API](https://kim-geonsik.notion.site/REST-API-d6ed4d35fc664a6fbb0791ec543b293a)
+-   [프로미스](https://kim-geonsik.notion.site/3888e7ce4bd147d5bede1865437a388a)   
